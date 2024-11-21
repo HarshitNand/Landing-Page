@@ -18,13 +18,13 @@ const Footer = () => {
               <div className="w-full lg:w-1/4">
                 <h3 className="text-white ">Explore</h3>
                 <a
-                  href="#"
+                  
                   className="block mt-2 text-sm text-gray-400 hover:underline"
                 >
                   FAQ
                 </a>
                 <a
-                  href="#"
+              
                   className="block mt-2 text-sm text-gray-400 hover:underline"
                 >
                   Pricing
@@ -35,13 +35,13 @@ const Footer = () => {
               <div className="w-full lg:w-1/4">
                 <h3 className="text-white ">Licensing</h3>
                 <a
-                  href="#"
+                 
                   className="block mt-2 text-sm text-gray-400 hover:underline"
                 >
                   Terms of use
                 </a>
                 <a
-                  href="#"
+                  
                   className="block mt-2 text-sm text-gray-400 hover:underline"
                 >
                   Privacy plicy
@@ -86,7 +86,7 @@ const Footer = () => {
               <h3 className="text-white  mt-4">  Connect with us 🤝</h3>
 
               <div className="flex mt-6 -mx-2">
-                        <a href="#"
+                        <a 
                             className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
                             aria-label="Reddit">
                             <svg className="w-10 h-10 fill-current" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -96,7 +96,7 @@ const Footer = () => {
                             </svg>
                         </a>
                     
-                        <a href="#"
+                        <a 
                             className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
                             aria-label="Facebook">
                             <svg className="w-10 h-10 fill-current" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -106,7 +106,7 @@ const Footer = () => {
                             </svg>
                         </a>
                     
-                        <a href="#"
+                        <a 
                             className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
                             aria-label="Github">
                             <svg className="w-10 h-10 fill-current" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">

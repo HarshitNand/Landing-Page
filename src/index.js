@@ -5,15 +5,15 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 // import { Provider } from 'react-redux'; // <-- Import Provider
 // // import store from './pages/store'; // <-- Import your Redux store
-import { BrowserRouter } from 'react-router-dom'; // Import BrowserRouter
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
     
-    <BrowserRouter>  {/* Wrap App with BrowserRouter */}
+    
       <App />
-    </BrowserRouter>
+   
 
   
 );
